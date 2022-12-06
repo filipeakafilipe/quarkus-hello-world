@@ -14,7 +14,7 @@ Passos:
 * Clone o projeto e vá para a pasta do projeto:
 ```
 git clone https://github.com/filipeakafilipe/quarkus-hello-world.git
-cd ./hello-world
+cd ./quarkus-hello-world/hello-world
 ```
 * Inicie a aplicação:
 ```
