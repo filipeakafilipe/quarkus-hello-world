@@ -20,4 +20,4 @@ cd ./hello-world
 ```
 quarkus dev
 ```
-* Após a aplicação iniciar, podemos acessá-la em `http://localhost:8080/`. Ao clicarmos em `VISIT THE DEV UI`, somos redirecionados a uma interface simplificada da aplicação, que reúne diferentes ferramentas, como o Swagger. Podemos clicar em `Swagger UI`, em `SmallRye OpenAPI`, para vermos os endpoints da API.
+* Após a aplicação iniciar, podemos acessá-la em `http://localhost:8080/`. Ao clicarmos em `VISIT THE DEV UI`, somos redirecionados para uma interface simplificada, `http://localhost:8080/q/dev/`, da aplicação, que reúne diferentes ferramentas, como o Swagger. Podemos clicar em `Swagger UI`, em `SmallRye OpenAPI`, para sermos direcionados para a interface do Swagger, `http://localhost:8080/q/swagger-ui/`, e vermos os endpoints da API.
