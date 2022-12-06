@@ -4,6 +4,8 @@
 O projeto visa apresentar uma simples aplicação expondo o funcionamento do framework de Java Quarkus.
 Para criar uma primeira aplicação utilizando Quarkus podemos seguir o guia [CREATING YOUR FIRST APPLICATION](https://quarkus.io/guides/getting-started), da documentação do framework.
 
+Vídeo de demonstração seguindo os passos: [Quarkus Hello World](https://www.youtube.com/watch?v=zNa1euniN70&ab_channel=Filipe)
+
 ### Pré-requisitos
 * IDE, como o Visual Studio Code
 * [JDK](https://www.oracle.com/java/technologies/downloads/) 11+ com o JAVA_HOME configurado
